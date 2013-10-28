@@ -7,13 +7,16 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <sqlite3.h>
+#import "FMDatabase.h"
 
 @interface ViewController : UIViewController
 
 
 @property (nonatomic, strong) UITextField *field;
 
+@property (strong, nonatomic) IBOutlet UITextField *weight;
 
-
+@property (strong, nonatomic) IBOutlet UITextField *hight;
 
 @end

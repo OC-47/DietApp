@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import "FMDatabase.h"
 
 @interface ViewController ()
 
@@ -16,43 +17,14 @@
 @synthesize field;
 
 
-#define MY_KEY @"mykey"
+sqlite3* db;
 
-// 体重
-#define MY_WEHGHT @"mywhight"
-// 身長
-#define MY_HIGHT @"myhight"
+
 
 
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    
-
-    // 体重入力フィールド
-    
-    field = [[UITextField alloc] initWithFrame:CGRectMake(20, 20, 100, 30)];
-    
-    field.borderStyle = UITextBorderStyleRoundedRect;
-    
-    [self.view addSubview:field];
-    
-    
-    // 身長入力フィールド
-
-    /*
-    field = [[UITextField alloc] initWithFrame:CGRectMake(150, 20, 100, 30)];
-    
-    field.borderStyle = UITextBorderStyleRoundedRect;
-    
-    [self.view addSubview:field];
-*/
-
-    
-    // UserDefaults に値があれば、セットする
-    
-    field.text = [[NSUserDefaults standardUserDefaults] valueForKey:MY_KEY];
-
     
     
     // save button
@@ -79,17 +51,66 @@
 
     [button addTarget:self action:@selector(delete:) forControlEvents:UIControlEventTouchUpInside];
 
+
+    //DBファイルのパス
+    NSArray *paths = NSSearchPathForDirectoriesInDomains( NSDocumentDirectory, NSUserDomainMask, YES );
+    NSString *dir   = [paths objectAtIndex:0];
+    //DBファイルがあるかどうか確認
+    NSFileManager *fileManager = [NSFileManager defaultManager];
+    if (![fileManager fileExistsAtPath:[dir stringByAppendingPathComponent:@"file.db"]])
+    {
+        //なければ新規作成
+        FMDatabase *db= [FMDatabase databaseWithPath:[dir stringByAppendingPathComponent:@"file.db"]];
+
+        NSString *sql = @"CREATE TABLE test (id INTEGER PRIMARY KEY AUTOINCREMENT,testname TEXT);";
+        
+        [db open]; //DB開く
+        [db executeUpdate:sql]; //SQL実行
+
+        
+        [db close];
+        
+    }
+    
+    
+
+    if ([fileManager fileExistsAtPath:[dir stringByAppendingPathComponent:@"file.db"]])
+    {
+
+    FMDatabase *db= [FMDatabase databaseWithPath:[dir stringByAppendingPathComponent:@"file.db"]];
+    
+    NSString *ins = @"insert into test (testname) values (1);";
+    
+    [db open]; //DB開く
+    [db executeUpdate:ins];
+    
+    NSLog(@"Error %@ - %d", [db lastErrorMessage], [db lastErrorCode]);
+    
+    [db close];
+    }
+    
+
 }
+
+
 
 - (void)store:(id)sender
 {
     // UserDefaults に TextFieldの値を保存
     NSUserDefaults *userDefaults = [NSUserDefaults standardUserDefaults];
-    [userDefaults setValue:field.text forKey:MY_KEY];
+    [userDefaults setValue:self.weight.text forKey:@"my_weight"];
+    [userDefaults setValue:self.hight.text forKey:@"my_hight"];
+    
+    int i = [userDefaults integerForKey:@"my_weight"];
+    NSLog(@"体重は%d",i);
+    
+    int s = [userDefaults integerForKey:@"my_hight"];
+    NSLog(@"身長は%d",s);
+    
 
     
-    int i = [userDefaults integerForKey:MY_KEY];
-    NSLog(@"%d",i);
+    
+
     
 
     BOOL successful = [userDefaults synchronize];
@@ -102,8 +123,9 @@
 - (void)delete:(id)sender
 {
     NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
-    [defaults removeObjectForKey:MY_KEY];
-
+    [defaults removeObjectForKey:@"my_weight"];
+    [defaults removeObjectForKey:@"my_hight"];
+    
     BOOL successful = [defaults synchronize];
     if (successful) {
         NSLog(@"%@", @"データの削除に成功しました。");
@@ -112,7 +134,7 @@
         return;
     }
     
-    NSArray *array = [defaults arrayForKey:MY_KEY];
+    NSArray *array = [defaults arrayForKey:@"my_weight"];
     NSLog(@"%d:%@", successful, array);
     if (!array) {
         NSLog(@"%@", @"データは削除されました。");
