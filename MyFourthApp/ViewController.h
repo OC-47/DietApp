@@ -17,6 +17,6 @@
 
 @property (strong, nonatomic) IBOutlet UITextField *weight;
 
-@property (strong, nonatomic) IBOutlet UITextField *hight;
+- (IBAction)savebutton:(id)sender;
 
 @end
