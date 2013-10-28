@@ -14,7 +14,7 @@
 @end
 
 @implementation ViewController;
-@synthesize field;
+@synthesize weight;
 
 
 sqlite3* db;
@@ -25,6 +25,8 @@ sqlite3* db;
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+
+    weight.delegate = self;
 
     //DBファイルのパス
     NSArray *paths = NSSearchPathForDirectoriesInDomains( NSDocumentDirectory, NSUserDomainMask, YES );
@@ -40,13 +42,14 @@ sqlite3* db;
         
         [db open]; //DB開く
         [db executeUpdate:sql]; //SQL実行
-
-        
         [db close];
-        
     }
 }
 
+- (BOOL)textFieldShouldReturn:(UITextField *)textField{
+    [textField resignFirstResponder];
+    return YES;
+}
 
 
 - (IBAction)savebutton:(id)sender {

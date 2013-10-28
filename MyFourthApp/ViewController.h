@@ -10,13 +10,13 @@
 #import <sqlite3.h>
 #import "FMDatabase.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController <UITextFieldDelegate>
 
-
-@property (nonatomic, strong) UITextField *field;
 
 @property (strong, nonatomic) IBOutlet UITextField *weight;
 
 - (IBAction)savebutton:(id)sender;
+
+
 
 @end
