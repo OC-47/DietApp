@@ -31,12 +31,12 @@ sqlite3* db;
     NSString *dir   = [paths objectAtIndex:0];
     //DBファイルがあるかどうか確認
     NSFileManager *fileManager = [NSFileManager defaultManager];
-    if (![fileManager fileExistsAtPath:[dir stringByAppendingPathComponent:@"file.db"]])
+    if (![fileManager fileExistsAtPath:[dir stringByAppendingPathComponent:@"weight.db"]])
     {
         //なければ新規作成
-        FMDatabase *db= [FMDatabase databaseWithPath:[dir stringByAppendingPathComponent:@"file.db"]];
+        FMDatabase *db= [FMDatabase databaseWithPath:[dir stringByAppendingPathComponent:@"weight.db"]];
 
-        NSString *sql = @"CREATE TABLE test (id INTEGER PRIMARY KEY AUTOINCREMENT,testname TEXT);";
+        NSString *sql = @"CREATE TABLE weight (id INTEGER PRIMARY KEY AUTOINCREMENT,weight TEXT,date TEXT);";
         
         [db open]; //DB開く
         [db executeUpdate:sql]; //SQL実行
@@ -63,13 +63,17 @@ sqlite3* db;
     NSString *dir   = [paths objectAtIndex:0];
     NSFileManager *fileManager = [NSFileManager defaultManager];
     
-    if ([fileManager fileExistsAtPath:[dir stringByAppendingPathComponent:@"file.db"]])
+    if ([fileManager fileExistsAtPath:[dir stringByAppendingPathComponent:@"weight.db"]])
     {
-        FMDatabase *db= [FMDatabase databaseWithPath:[dir stringByAppendingPathComponent:@"file.db"]];
+        FMDatabase *db= [FMDatabase databaseWithPath:[dir stringByAppendingPathComponent:@"weight.db"]];
         
         [db open]; //DB開く
         
-        [db executeUpdate:@"insert into test (testname) values (?);",weight_num];
+        NSDateFormatter *df = [[NSDateFormatter alloc] init];
+        df.dateFormat  = @"yyyy-MM-dd";
+        NSString *strDate = [df stringFromDate:[NSDate date]];
+        
+        [db executeUpdate:@"insert into weight (weight,date) values (?,?);",weight_num,strDate];
         
         NSLog(@"Error %@ - %d", [db lastErrorMessage], [db lastErrorCode]);
         [db close];
