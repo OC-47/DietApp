@@ -1,0 +1,676 @@
+TMyFourthApp
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/PrecompiledHeaders/MyFourthApp-Prefix-bgsqnnbselipweamhrxquucwepez/MyFourthApp-Prefix.pch.pch MyFourthApp/MyFourthApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/AppDelegate.o /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/main.o /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/ViewController.o /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/MyFourthApp normal i386
+cCopyStringsFile /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/en.lproj/InfoPlist.strings MyFourthApp/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/Images.xcassets
+cProcessInfoPlistFile /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/Info.plist /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/MyFourthApp-Info.plist
+cGenerateDSYMFile /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app.dSYM /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/MyFourthApp
+cTouch /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c000000005268DE310000000000000176
+t1382604337
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c0000000052650C0B00000000000003B5
+t1382353931
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005268DD8000000000000001A0
+t1382604160
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000005268DD8200000000005838D0
+t1382604162
+s5781712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000005268DD8200000000005B82A0
+t1382604162
+s5997216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005268DD820000000000445870
+t1382604162
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c000000005268DD820000000000355050
+t1382604162
+s3493968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c000000005268DD8200000000002F6810
+t1382604162
+s3106832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000005268DD82000000000004B000
+t1382604162
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005268DD84000000000088C680
+t1382604164
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000005268DD840000000000037620
+t1382604164
+s226848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000005268DD8500000000004848F0
+t1382604165
+s4737264
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c000000005268DD8400000000001290B0
+t1382604164
+s1216688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005268DD890000000001DB9910
+t1382604169
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c000000005268DD8D00000000002B9F20
+t1382604173
+s2858784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+c0000000052650C3A0000000000002338
+t1382353978
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+c000000005268DD94000000000008D300
+t1382604180
+s578304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+c0000000052650C3A000000000038ACB0
+t1382353978
+s3714224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+c00000000508EB3D000000000000121D0
+t1351529424
+s74192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+c0000000052650C3B0000000000013500
+t1382353979
+s79104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c0000000052650C3B0000000000033BA0
+t1382353979
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c0000000052650C3B000000000001CFB0
+t1382353979
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+c0000000052650C3B000000000001B2B0
+t1382353979
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+c000000005268DD9400000000000632B0
+t1382604180
+s406192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+c0000000052650C3B0000000000008880
+t1382353979
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+c000000005268DD940000000000015080
+t1382604180
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+c0000000052650C3B00000000000230E0
+t1382353979
+s143584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+c0000000052650C3B000000000000E380
+t1382353979
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+c0000000052650C3B0000000000087200
+t1382353979
+s553472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+c0000000052650C3B00000000000171A0
+t1382353979
+s94624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c0000000052650C3B0000000000039C10
+t1382353979
+s236560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c0000000052650C3B000000000000B0B0
+t1382353979
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+c0000000052650C3B0000000000167FE0
+t1382353979
+s1474528
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c000000005268DD9400000000000106A0
+t1382604180
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c000000005268DD94000000000001CE40
+t1382604180
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+c0000000052650C3B0000000000071040
+t1382353979
+s462912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+c000000005268DD940000000000067A10
+t1382604180
+s424464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+c0000000052650C3B000000000001BAD0
+t1382353979
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+c000000005268DD950000000000088BA0
+t1382604181
+s560032
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c0000000052650C480000000000000AC9
+t1382353992
+s2761
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+c000000005268DDBB0000000000005004
+t1382604219
+s20484
+
+N/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/AppDelegate.o
+t1382952191
+s65296
+
+N/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/MyFourthApp.LinkFileList
+c00000000526528F80000000000000245
+t1382361336
+s581
+
+N/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/ViewController.o
+t1382957992
+s57932
+
+N/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/main.o
+t1382952191
+s3720
+
+N/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/assetcatalog_dependencies.txt
+t1382361339
+s522
+
+N/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/assetcatalog_generated_info.plist
+t1382361339
+s525
+
+N/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/PrecompiledHeaders/MyFourthApp-Prefix-bgsqnnbselipweamhrxquucwepez/MyFourthApp-Prefix.pch.pch
+t1382952190
+s109084
+
+N/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/PrecompiledHeaders/MyFourthApp-Prefix-dxpaolusbzhoxqghkcyjfhytrlde/MyFourthApp-Prefix.pch.pch
+t1382361338
+s109104
+
+N/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app
+t1382957992
+s306
+
+N/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app.dSYM
+t1382957892
+s102
+
+N/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/Base.lproj/Main.storyboardc
+t1382406969
+s170
+
+N/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/Info.plist
+t1382952193
+s1030
+
+N/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/MyFourthApp
+t1382957992
+s22756
+
+N/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/PkgInfo
+t1382952193
+s8
+
+N/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/en.lproj/InfoPlist.strings
+t1382361338
+s42
+
+N/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/AppDelegate.h
+c0000000052652765000000000000011F
+t1382360933
+s287
+
+N/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/AppDelegate.m
+c000000005265276500000000000007E1
+t1382360933
+s2017
+
+N/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/Base.lproj/Main.storyboard
+c000000005265DB38000000000000071B
+t1382406968
+s1819
+
+N/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/Images.xcassets
+c00000000526527660000000000000088
+t1382360934
+s136
+
+N/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/MyFourthApp-Info.plist
+c000000005265276500000000000004CE
+t1382360933
+s1230
+
+N/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/MyFourthApp-Prefix.pch
+c00000000526527650000000000000158
+t1382360933
+s344
+
+N/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/ViewController.h
+c0000000052661E600000000000000118
+t1382424160
+s280
+
+N/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/ViewController.m
+c00000000526E43A70000000000000BF7
+t1382957991
+s3063
+
+N/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/en.lproj/InfoPlist.strings
+c0000000052652765000000000000002D
+t1382360933
+s45
+
+N/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/main.m
+c0000000052652765000000000000015B
+t1382360933
+s347
+
+N/usr/lib/libSystem.B.dylib
+c00000000508EB3BE000000000000D2A0
+t1351529406
+s53920
+
+N/usr/lib/system/libcache.dylib
+c00000000508EB3D00000000000013870
+t1351529424
+s79984
+
+N/usr/lib/system/libcommonCrypto.dylib
+c000000005264EF550000000000030250
+t1382346581
+s197200
+
+N/usr/lib/system/libcompiler_rt.dylib
+c00000000508EB3BE0000000000017910
+t1351529406
+s96528
+
+N/usr/lib/system/libcopyfile.dylib
+c00000000508EB3CF000000000001A130
+t1351529423
+s106800
+
+N/usr/lib/system/libdnsinfo.dylib
+c000000005264EFCC000000000000C2A0
+t1382346700
+s49824
+
+N/usr/lib/system/libdyld.dylib
+c00000000508EB3D000000000000121D0
+t1351529424
+s74192
+
+N/usr/lib/system/libkeymgr.dylib
+c00000000508EB3D00000000000008CE0
+t1351529424
+s36064
+
+N/usr/lib/system/liblaunch.dylib
+c000000005264EFD2000000000001D350
+t1382346706
+s119632
+
+N/usr/lib/system/libmacho.dylib
+c00000000508EB3CE0000000000014F90
+t1351529422
+s85904
+
+N/usr/lib/system/libquarantine.dylib
+c000000005264EFDD000000000000D790
+t1382346717
+s55184
+
+N/usr/lib/system/libremovefile.dylib
+c000000005264EFDD000000000000C330
+t1382346717
+s49968
+
+N/usr/lib/system/libsystem_blocks.dylib
+c00000000508EB3D0000000000000A080
+t1351529424
+s41088
+
+N/usr/lib/system/libsystem_c.dylib
+c000000005264EF8E00000000001F91C0
+t1382346638
+s2068928
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c000000005264EFD3000000000001BC00
+t1382346707
+s113664
+
+N/usr/lib/system/libsystem_info.dylib
+c00000000508EB3BE000000000008B580
+t1351529406
+s570752
+
+N/usr/lib/system/libsystem_kernel.dylib
+c000000005264EF8E00000000000569B0
+t1382346638
+s354736
+
+N/usr/lib/system/libsystem_m.dylib
+c00000000508EB3BE0000000000070540
+t1351529406
+s460096
+
+N/usr/lib/system/libsystem_notify.dylib
+c00000000508EB3BE0000000000025620
+t1351529406
+s153120
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c000000005264EFB6000000000000C780
+t1382346678
+s51072
+
+N/usr/lib/system/libunc.dylib
+c00000000508EB3C9000000000000D430
+t1351529417
+s54320
+
+N/usr/lib/system/libunwind.dylib
+c00000000508EB3D0000000000001BAA0
+t1351529424
+s113312
+
+CBuild AST from /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/AppDelegate.m
+r0
+
+CBuild AST from /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/ViewController.m
+r0
+
+CBuild AST from /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies88d878287b1eb841^c66c79287b1eb841^---0#1#1#--18"Check dependencies36"3573E016-A95B-42D4-8389-0C9012AA1365-
+
+CCompileAssetCatalog /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/Images.xcassets
+s404054138.662344
+e404054139.707016
+r1
+xCompileAssetCatalog
+x/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app
+x/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/LaunchImage-700-568h@2x.png
+o/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/Assets.car
+o/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"CompileAssetCatalog DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app MyFourthApp/Images.xcassets124"CompileAssetCatalog DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app MyFourthApp/Images.xcassetsdfa4a97a6015b841^a8ffb47b6015b841^-550"/* com.apple.actool.compilation-results *//Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/LaunchImage-700-568h@2x.png/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/Assets.car/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@103"file://localhost/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/Images.xcassets/0000000000000000^1366"CompileAssetCatalog DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app MyFourthApp/Images.xcassets    cd /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/Images.xcassets36"F282C981-66FC-437B-B3AD-F3CF4BACAA75-
+b752763F3-4292-4E6E-A270-11C5C4CA0459
+
+CCompileC DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/AppDelegate.o /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s404644990.961371
+e404644991.386622
+r1
+xCompileC
+xDerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/AppDelegate.o
+x/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/AppDelegate.m
+d/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/AppDelegate.m238"CompileC DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/AppDelegate.o MyFourthApp/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb953f67e641eb841^61fa627f641eb841^---0#0#1#-19%DVTDocumentLocation2@100"file://localhost/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/AppDelegate.m0000000000000000^4365"CompileC DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/AppDelegate.o MyFourthApp/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/MyFourthApp-generated-files.hmap -I/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/MyFourthApp-own-target-headers.hmap -I/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/MyFourthApp-all-target-headers.hmap -iquote /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/MyFourthApp-project-headers.hmap -I/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/DerivedSources/i386 -I/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/DerivedSources -F/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator -include /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/PrecompiledHeaders/MyFourthApp-Prefix-bgsqnnbselipweamhrxquucwepez/MyFourthApp-Prefix.pch -MMD -MT dependencies -MF /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/AppDelegate.dia -c /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/AppDelegate.m -o /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/AppDelegate.o36"663AB23F-A1D9-4017-8081-2BF3EEFA8235-
+b50EEE9C1-4996-406F-882F-29F19D9E0AAC
+
+CCompileC DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/ViewController.o /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s404650792.476762
+e404650792.545822
+r1
+xCompileC
+xDerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/ViewController.o
+x/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/ViewController.m
+d/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/ViewController.m244"CompileC DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/ViewController.o MyFourthApp/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler55307a287b1eb841^62bb8b287b1eb841^---0#0#1#-19%DVTDocumentLocation2@103"file://localhost/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/ViewController.m0000000000000000^4383"CompileC DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/ViewController.o MyFourthApp/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/MyFourthApp-generated-files.hmap -I/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/MyFourthApp-own-target-headers.hmap -I/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/MyFourthApp-all-target-headers.hmap -iquote /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/MyFourthApp-project-headers.hmap -I/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/DerivedSources/i386 -I/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/DerivedSources -F/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator -include /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/PrecompiledHeaders/MyFourthApp-Prefix-bgsqnnbselipweamhrxquucwepez/MyFourthApp-Prefix.pch -MMD -MT dependencies -MF /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/ViewController.dia -c /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/ViewController.m -o /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/ViewController.o36"32530442-447E-4E49-8A2C-0F9DEEA106E9-
+b1CF80DB9-BAAC-4566-A59F-F0E13AB6F42F
+
+CCompileC DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/main.o /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s404644990.962559
+e404644991.386254
+r1
+xCompileC
+xDerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/main.o
+x/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/main.m
+d/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/main.m224"CompileC DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/main.o MyFourthApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9e97f67e641eb841^5de0627f641eb841^---0#0#1#-19%DVTDocumentLocation2@93"file://localhost/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/main.m0000000000000000^4323"CompileC DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/main.o MyFourthApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/MyFourthApp-generated-files.hmap -I/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/MyFourthApp-own-target-headers.hmap -I/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/MyFourthApp-all-target-headers.hmap -iquote /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/MyFourthApp-project-headers.hmap -I/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/DerivedSources/i386 -I/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/DerivedSources -F/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator -include /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/PrecompiledHeaders/MyFourthApp-Prefix-bgsqnnbselipweamhrxquucwepez/MyFourthApp-Prefix.pch -MMD -MT dependencies -MF /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/main.dia -c /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/main.m -o /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/main.o36"AEBA84CF-0CBF-463B-8D8B-EF151D35CE53-
+b50EEE9C1-4996-406F-882F-29F19D9E0AAC
+
+CCompileStoryboard /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/Base.lproj/Main.storyboard
+s404099769.167270
+e404099769.244397
+r1
+xCompileStoryboard
+x/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"CompileStoryboard MyFourthApp/Base.lproj/Main.storyboard56"CompileStoryboard MyFourthApp/Base.lproj/Main.storyboard9ce12ab91216b841^00913eb91216b841^---0#0#1#-19%DVTDocumentLocation2@113"file://localhost/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/Base.lproj/Main.storyboard0000000000000000^935"CompileStoryboard MyFourthApp/Base.lproj/Main.storyboard    cd /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/Base.lproj/Main.storyboardc /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/Base.lproj/Main.storyboard36"645F6B8D-DD43-4D49-9131-8EE25787C95A-
+b0CDF5B5D-8CB8-4161-8846-07F310CC4333
+
+CCopyStringsFile /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/en.lproj/InfoPlist.strings MyFourthApp/en.lproj/InfoPlist.strings
+s404054138.662135
+e404054138.666045
+r1
+xCopyStringsFile
+x/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/en.lproj/InfoPlist.strings
+xMyFourthApp/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy MyFourthApp/en.lproj/InfoPlist.strings158"CopyStringsFile DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/en.lproj/InfoPlist.strings MyFourthApp/en.lproj/InfoPlist.strings1c97a97a6015b841^5182aa7a6015b841^---0#0#1#-19%DVTDocumentLocation2@113"file://localhost/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/en.lproj/InfoPlist.strings0000000000000000^697"CopyStringsFile DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/en.lproj/InfoPlist.strings MyFourthApp/en.lproj/InfoPlist.strings    cd /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/en.lproj -- MyFourthApp/en.lproj/InfoPlist.strings36"A5019662-1192-46C4-8650-710655F86B86-
+b752763F3-4292-4E6E-A270-11C5C4CA0459
+
+CGenerateDSYMFile /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app.dSYM /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/MyFourthApp
+s404650792.604073
+e404650792.622368
+r1
+xGenerateDSYMFile
+x/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app.dSYM
+x/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/MyFourthApp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection149"Generate /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app.dSYM187"GenerateDSYMFile DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app.dSYM DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/MyFourthApp9ab39a287b1eb841^75569f287b1eb841^---0#0#1#-19%DVTDocumentLocation2@157"file://localhost/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app.dSYM/0000000000000000^841"GenerateDSYMFile DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app.dSYM DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/MyFourthApp    cd /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/MyFourthApp -o /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app.dSYM36"0F31DABF-8896-42DB-976A-B9837B3B6380-
+b1CF80DB9-BAAC-4566-A59F-F0E13AB6F42F
+
+CLd /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/MyFourthApp normal i386
+s404650792.555642
+e404650792.591717
+r1
+xLd
+x/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/MyFourthApp
+xnormal
+xi386
+d/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/MyFourthApp.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/ViewController.o
+d/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/AppDelegate.o
+d/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection152"Link /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/MyFourthApp103"Ld DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/MyFourthApp normal i3864c518e287b1eb841^807e97287b1eb841^---0#0#1#--1693"Ld DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/MyFourthApp normal i386    cd /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator -F/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator -filelist /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/MyFourthApp.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/Objects-normal/i386/MyFourthApp_dependency_info.dat -o /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/MyFourthApp36"8F40FA6C-2087-49DE-9C1F-0C276D85D005-
+b1CF80DB9-BAAC-4566-A59F-F0E13AB6F42F
+
+CProcessInfoPlistFile /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/Info.plist /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/MyFourthApp-Info.plist
+s404644993.716169
+e404644993.735935
+r1
+xProcessInfoPlistFile
+x/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/Info.plist
+x/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/MyFourthApp-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Process /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/MyFourthApp-Info.plist143"ProcessInfoPlistFile DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/Info.plist MyFourthApp/MyFourthApp-Info.plistb779b781641eb841^0667bc81641eb841^---0#0#1#-19%DVTDocumentLocation2@109"file://localhost/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/MyFourthApp-Info.plist0000000000000000^1114"ProcessInfoPlistFile DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/Info.plist MyFourthApp/MyFourthApp-Info.plist    cd /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/MyFourthApp-Info.plist -genpkginfo /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/assetcatalog_generated_info.plist -o /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app/Info.plist36"7C2BCA2D-58ED-45A6-8D41-5DEA858102E1-
+b50EEE9C1-4996-406F-882F-29F19D9E0AAC
+
+CProcessPCH /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/PrecompiledHeaders/MyFourthApp-Prefix-bgsqnnbselipweamhrxquucwepez/MyFourthApp-Prefix.pch.pch MyFourthApp/MyFourthApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s404644988.254206
+e404644990.951253
+r1
+xProcessPCH
+x/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/PrecompiledHeaders/MyFourthApp-Prefix-bgsqnnbselipweamhrxquucwepez/MyFourthApp-Prefix.pch.pch
+xMyFourthApp/MyFourthApp-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/MyFourthApp-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile MyFourthApp/MyFourthApp-Prefix.pch251"ProcessPCH DerivedData/MyFourthApp/Build/Intermediates/PrecompiledHeaders/MyFourthApp-Prefix-bgsqnnbselipweamhrxquucwepez/MyFourthApp-Prefix.pch.pch MyFourthApp/MyFourthApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler724d417c641eb841^0188f37e641eb841^---0#0#1#-19%DVTDocumentLocation2@109"file://localhost/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/MyFourthApp-Prefix.pch0000000000000000^4194"ProcessPCH DerivedData/MyFourthApp/Build/Intermediates/PrecompiledHeaders/MyFourthApp-Prefix-bgsqnnbselipweamhrxquucwepez/MyFourthApp-Prefix.pch.pch MyFourthApp/MyFourthApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/MyFourthApp-generated-files.hmap -I/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/MyFourthApp-own-target-headers.hmap -I/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/MyFourthApp-all-target-headers.hmap -iquote /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/MyFourthApp-project-headers.hmap -I/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/DerivedSources/i386 -I/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/DerivedSources -F/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/PrecompiledHeaders/MyFourthApp-Prefix-bgsqnnbselipweamhrxquucwepez/MyFourthApp-Prefix.pch.dia -MMD -MT dependencies -MF /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/PrecompiledHeaders/MyFourthApp-Prefix-bgsqnnbselipweamhrxquucwepez/MyFourthApp-Prefix.pch.d -c /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/MyFourthApp-Prefix.pch -o /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/PrecompiledHeaders/MyFourthApp-Prefix-bgsqnnbselipweamhrxquucwepez/MyFourthApp-Prefix.pch.pch36"BD087CA2-96C4-4498-A552-C0A5EDDB1BA7-
+b50EEE9C1-4996-406F-882F-29F19D9E0AAC
+
+CProcessPCH /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/PrecompiledHeaders/MyFourthApp-Prefix-dxpaolusbzhoxqghkcyjfhytrlde/MyFourthApp-Prefix.pch.pch MyFourthApp/MyFourthApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s404054136.290464
+e404054138.476638
+r1
+xProcessPCH
+x/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/PrecompiledHeaders/MyFourthApp-Prefix-dxpaolusbzhoxqghkcyjfhytrlde/MyFourthApp-Prefix.pch.pch
+xMyFourthApp/MyFourthApp-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/MyFourthApp-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile MyFourthApp/MyFourthApp-Prefix.pch251"ProcessPCH DerivedData/MyFourthApp/Build/Intermediates/PrecompiledHeaders/MyFourthApp-Prefix-dxpaolusbzhoxqghkcyjfhytrlde/MyFourthApp-Prefix.pch.pch MyFourthApp/MyFourthApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler16844a786015b841^79057a7a6015b841^---0#0#1#-19%DVTDocumentLocation2@109"file://localhost/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/MyFourthApp-Prefix.pch0000000000000000^4194"ProcessPCH DerivedData/MyFourthApp/Build/Intermediates/PrecompiledHeaders/MyFourthApp-Prefix-dxpaolusbzhoxqghkcyjfhytrlde/MyFourthApp-Prefix.pch.pch MyFourthApp/MyFourthApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/MyFourthApp-generated-files.hmap -I/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/MyFourthApp-own-target-headers.hmap -I/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/MyFourthApp-all-target-headers.hmap -iquote /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/MyFourthApp-project-headers.hmap -I/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/DerivedSources/i386 -I/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/MyFourthApp.build/Debug-iphonesimulator/MyFourthApp.build/DerivedSources -F/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/PrecompiledHeaders/MyFourthApp-Prefix-dxpaolusbzhoxqghkcyjfhytrlde/MyFourthApp-Prefix.pch.dia -MMD -MT dependencies -MF /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/PrecompiledHeaders/MyFourthApp-Prefix-dxpaolusbzhoxqghkcyjfhytrlde/MyFourthApp-Prefix.pch.d -c /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/MyFourthApp/MyFourthApp-Prefix.pch -o /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Intermediates/PrecompiledHeaders/MyFourthApp-Prefix-dxpaolusbzhoxqghkcyjfhytrlde/MyFourthApp-Prefix.pch.pch36"3F928380-05E1-496A-A6D4-7F8257BDB8E3-
+b752763F3-4292-4E6E-A270-11C5C4CA0459
+
+CProcessPCH /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Index/PrecompiledHeaders/MyFourthApp-Prefix-fyvufbeshkmmsuaozrkhrpxymfbj_ast/MyFourthApp-Prefix.pch.pch MyFourthApp/MyFourthApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Index/PrecompiledHeaders/MyFourthApp-Prefix-gackiofvdlopuzgjbmycmfisiskl_ast/MyFourthApp-Prefix.pch.pch MyFourthApp/MyFourthApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app
+s404099517.779085
+e404099517.785098
+r1
+xTouch
+x/Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection141"Touch /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app82"Touch DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.appad87c7bd1116b841^93fcc8bd1116b841^---0#0#1#--502"Touch DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app    cd /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/e115747/Workspace/ryukyu/3-2/mobile_app/MyFourthApp/DerivedData/MyFourthApp/Build/Products/Debug-iphonesimulator/MyFourthApp.app36"9645EE78-8EBE-4336-9D6A-AA377257C02E-
+b5D7329EF-11D0-495F-9368-55746C355C29
+
